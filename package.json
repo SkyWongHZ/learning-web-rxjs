@@ -1,0 +1,11 @@
+{
+  "name": "learning-web-rxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SkyWongHZ/learning-web-rxjs",
+  "author": "sky <skywong0571@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  }
+}
